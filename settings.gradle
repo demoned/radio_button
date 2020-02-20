@@ -1,0 +1,2 @@
+include ':app', ':lib_radio_button'
+rootProject.name='radio_button'
